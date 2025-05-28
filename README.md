@@ -1,5 +1,5 @@
 
-### Integrantes do projeto
+# Integrantes do projeto
 | R.A   | Nome |
 | -------- | ------- |
 | 24.00003-5  | Rafael Alvarez de Carvalho Ruthes    |
